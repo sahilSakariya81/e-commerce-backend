@@ -76,8 +76,8 @@ Ecommerce-Application/
 ### 1️⃣ Clone Repository
 
 ```bash id="k3m9yt"
-git clone https://github.com/your-username/springboot-ecommerce-api.git
-cd springboot-ecommerce-api
+git clone https://github.com/sahilSakariya81/e-commerce-backend
+
 ```
 
 ---
@@ -178,7 +178,7 @@ Use:
 
 ## 👨‍💻 Author
 
-Harshil Gorasiya
+Sahil Sakariya
 
 ---
 
